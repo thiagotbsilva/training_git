@@ -5,10 +5,12 @@ Main Screen
 Green App Bar
 Search Box
 Picture with an Oscar statue on it
+Picture of Tom Hanks
 
 Detail Screen
 Movie poster
 Text with details in black
 Gray background
+with red stripes
 
 
