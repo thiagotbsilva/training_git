@@ -1,0 +1,13 @@
+
+Main Screen and Detail Screen for a MovieApp
+
+Main Screen
+Yellow App Bar
+Search Box
+Picture with an Oscar statue on it
+
+Detail Screen
+Movie poster
+Text with details in black
+
+
