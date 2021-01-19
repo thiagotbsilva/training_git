@@ -2,13 +2,22 @@
 Main Screen and Detail Screen for a MovieApp
 
 Main Screen
-Yellow App Bar
+Green App Bar
 Search Box
 Picture with an Oscar statue on it
+Picture of Tom Hanks
 
 Detail Screen
 Movie poster
 Text with details in black
+Gray background
+with red stripes
+
+Add Save Button
+This button saves your favorite movies from Movie Details Page
+Color of the button: blue
+
+Release Correction: the Save Button needed to be corrected
 
 Correction:
 The search box wasn't working. Now it's fixed
