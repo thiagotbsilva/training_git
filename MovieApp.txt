@@ -10,4 +10,6 @@ Detail Screen
 Movie poster
 Text with details in black
 
+Correction:
+The search box wasn't working. Now it's fixed
 
