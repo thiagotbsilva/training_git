@@ -13,4 +13,7 @@ Text with details in black
 Gray background
 with red stripes
 
+Add Save Button
+This button saves your favorite movies from Movie Details Page
+
 
